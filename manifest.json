@@ -1,0 +1,10 @@
+{
+	"id": "github-image-video-uploader",
+	"name": "GitHub Image & Video Uploader",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Auto-uploads pasted images & videos to a private GitHub repo.",
+	"author": "whomann",
+	"authorUrl": "https://github.com/whomann",
+	"isDesktopOnly": false
+}
